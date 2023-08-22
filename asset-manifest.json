@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vaibhav30Shah/E-commerce.git/static/css/main.073c9b0a.css",
+    "main.js": "/Vaibhav30Shah/E-commerce.git/static/js/main.c642d63e.js",
+    "static/js/787.1fee1fb8.chunk.js": "/Vaibhav30Shah/E-commerce.git/static/js/787.1fee1fb8.chunk.js",
+    "static/media/logo.svg": "/Vaibhav30Shah/E-commerce.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vaibhav30Shah/E-commerce.git/index.html",
+    "main.073c9b0a.css.map": "/Vaibhav30Shah/E-commerce.git/static/css/main.073c9b0a.css.map",
+    "main.c642d63e.js.map": "/Vaibhav30Shah/E-commerce.git/static/js/main.c642d63e.js.map",
+    "787.1fee1fb8.chunk.js.map": "/Vaibhav30Shah/E-commerce.git/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c642d63e.js"
+  ]
+}
